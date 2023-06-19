@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRyIKACSCayJLT5YhM+K8vg2s9/fsqc0lUiGho/UzOx2VwMJ3ESXVsQMzxzAeKzSlFLISFoCi5u8gu1KL8dtPw==",
+  "success": true,
+  "projectFilePath": "/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/CloudCustomers.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/deuriib/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/deuriib/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/deuriib/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/deuriib/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

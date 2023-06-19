@@ -1,0 +1,12 @@
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/bin/Debug/net6.0/CloudCustomers.Domain.deps.json
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/bin/Debug/net6.0/CloudCustomers.Domain.dll
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/bin/Debug/net6.0/CloudCustomers.Domain.pdb
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.csproj.AssemblyReference.cache
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.AssemblyInfoInputs.cache
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.AssemblyInfo.cs
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.csproj.CoreCompileInputs.cache
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.dll
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/refint/CloudCustomers.Domain.dll
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/CloudCustomers.Domain.pdb
+/Users/deuriib/Projects/CloudCustomers/CloudCustomers.Domain/obj/Debug/net6.0/ref/CloudCustomers.Domain.dll
